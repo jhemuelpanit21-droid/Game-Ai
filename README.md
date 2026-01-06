@@ -10,6 +10,6 @@ This is an offline AI game assistant using:
 
 ### How to run
 1. Install Ollama - https://ollama.com/download
-2. Run `ollama run llama3`
-3. Run `npm start`
-4. Open index.html locally
+2. Run `ollama run llama3` - Coppy this and paste it on Power Shell.
+3. Run `npm start` - Copy this and the open Vs code and go to server.js and then open the terminal the you can paste it there.
+5. Open index.html locally
