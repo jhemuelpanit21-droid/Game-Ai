@@ -9,7 +9,7 @@ This is an offline AI game assistant using:
 - Ollama (LLaMA 3)
 
 ### How to run
-1. Install Ollama
+1. Install Ollama - https://ollama.com/download
 2. Run `ollama run llama3`
 3. Run `npm start`
 4. Open index.html locally
